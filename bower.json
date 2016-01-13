@@ -1,0 +1,27 @@
+{
+  "name": "taaabs-import-external-module-behavior",
+  "version": "1.0.0",
+  "description": "`taaabs-import-external-module-behavior` is a Polymer Behavior that is importing all Element in the <body> of an HTML document from an external URL.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-import-external-module-behavior.git"
+  },
+  "main": "taaabs-import-external-module-behavior.html",
+  "license": "https://github.com/TaaabsElements/taaabs-import-external-module-behavior/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
